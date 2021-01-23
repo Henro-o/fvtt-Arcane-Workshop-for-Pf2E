@@ -1,0 +1,54 @@
+{   
+   "name": "arcane-workshop",   
+   "title": "Henrio's Arcane Workshop; Homebrew Spells for Pathfinder 2E",   
+   "description": "A module containing over 60 new homebrew spells for Pathfinder 2E. I aim to create spells that are fun, evocative and fall within the balance of 2E as a whole.",   
+   "author": "Henrio",
+   "version": "1.0.0",
+   "minimumCoreVersion": "0.5.5",
+   "compatibleCoreVersion": "3.0.0",
+   "systems": ["pf2e"],
+   "packs": [
+    {
+      "name": "metal-spells",
+      "label": "Metal Spells mini Module",
+      "path": "packs/metal-spells-mini-module.db",
+      "entity": "Item",
+      "module": "Henrio's Arcane Workshop"
+    },
+    {
+      "name": "bag-of-tricks",
+      "label": "Bag of Tricks Spell Module",
+      "path": "packs/bag-of-tricks-module.db",
+      "entity": "Item",
+      "module": "Henrio's Arcane Workshop"
+    },
+    {
+      "name": "elemental-fury",
+      "label": "Elemental Fury Spell Module",
+      "path": "packs/elemental-fury-spell-module.db",
+      "entity": "Item",
+      "module": "Henrio's Arcane Workshop"
+    },
+    {
+      "name": "ancient-magic",
+      "label": "Ancient Magic Spell Module",
+      "path": "packs/ancient-magic-module.db",
+      "entity": "Item",
+      "module": "Henrio's Arcane Workshop"
+    }
+    {
+      "name": "cosmic-magic",
+      "label": "Cosmic Magic Spell Module",
+      "path": "packs/cosmic-magic.db",
+      "entity": "Item",
+      "module": "Henrio's Arcane Workshop"
+    },
+    {
+      "name": "witchy-spells",
+      "label": "Witchy Spells Mini-Module",
+      "path": "packs/witchy-spells-mini-module.db",
+      "entity": "Item",
+      "module": "Henrio's Arcane Workshop"
+    },
+  ]
+ }
