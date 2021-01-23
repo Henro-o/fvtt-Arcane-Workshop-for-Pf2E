@@ -35,7 +35,7 @@
       "path": "packs/ancient-magic-module.db",
       "entity": "Item",
       "module": "Henrio's Arcane Workshop"
-    }
+    },
     {
       "name": "cosmic-magic",
       "label": "Cosmic Magic Spell Module",
